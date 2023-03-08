@@ -1,0 +1,25 @@
+{
+  "name": "node_movie_api",
+  "version": "1.0.0",
+  "description": "Node API for ICT Movie App Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jomonthomaslobo/node_api.git"
+  },
+  "author": "Jomon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jomonthomaslobo/node_api/issues"
+  },
+  "homepage": "https://github.com/jomonthomaslobo/node_api#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.1"
+  }
+}
